@@ -9,5 +9,3 @@
 
 ## Laravel Crud
 
-<img src="https://github.com/Parasnshah/laravel_crud/blob/master/public/student_crud.PNG">
-
